@@ -1,0 +1,27 @@
+.display{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+    border:1px solid;
+    border-radius: 2px;
+    padding: 10px;
+    background: red;
+    word-break: break-all;
+}
+p{
+    margin: 0px;
+}
+.todos{
+    word-break: break-all;
+    
+}
+.todos button{
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+    padding: 2px;
+} 
+display{
+    width: 300px;
+}
